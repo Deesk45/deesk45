@@ -75,8 +75,9 @@
 ## 🔌 Embedded-Themed Animation (Professional)
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 </p>
+
 
 <p align="center">
 <em>“Turning hardware into intelligent systems through code.”</em>
