@@ -29,7 +29,7 @@
 ### 🔹 Operating Systems & Tools
 <p>
 <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge"/>
 </p>
 
