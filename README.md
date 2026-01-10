@@ -97,7 +97,7 @@
 
 ## 📂 Featured Embedded Project
 
-### 🩺 DOSE GUARDIAN – Embedded Medicine Reminder System
+### 🩺  DoseGuardian – Intelligent Pill-Taking Assistant
 
 > Smart embedded system to remind patients to take medicines on time using microcontroller timers and interrupts.
 
