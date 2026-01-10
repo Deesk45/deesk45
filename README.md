@@ -1,6 +1,6 @@
 <!-- ======= HEADER TYPING ANIMATION ======= -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Deepak+Khaladkar;Embedded+Software+Developer;Firmware+%7C+RTOS+%7C+Embedded+Linux;Turning+Hardware+Into+Intelligent+Systems">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Deepak+Khaladkar;Embedded+Software+Developer;Firmware+%7C+RTOS+%7C+Embedded+Linux;Turning+Hardware+Into+Intelligent+Systems">
 </h1>
 
 </h1>
