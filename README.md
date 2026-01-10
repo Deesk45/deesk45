@@ -145,7 +145,6 @@
 ## 💻 Embedded System Animation
 
 <p align="center">
-<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN3a3N2ZmF0N2t0N2x5eDF6bG9rdjN6eWZ4dXcyOWI5cDJoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnJ3BooiDs8v9a/giphy.gif" width="420"/>
 </p>
 </p>
