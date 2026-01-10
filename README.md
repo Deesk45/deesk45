@@ -39,7 +39,6 @@
 </p>
 
 - Embedded C, C, C++  
-- Data Structures & Memory Management  
 - Low-level Firmware Development  
 - Bare-Metal Programming  
 
@@ -93,9 +92,8 @@
 
 - Keil, GCC, Linux  
 - Git & GitHub  
-- Debugging using Logs & Registers  
-
-
+- Debugging using Logs & Registers
+- 
 
 ## 📂 Featured Embedded Project
 
