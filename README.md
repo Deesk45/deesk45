@@ -31,7 +31,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,arduino,raspberrypi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,arduino,raspberrypi,git,github" />
 </p>
 
 <p align="center">
@@ -48,10 +48,12 @@
 <img src="https://img.shields.io/badge/UART-555555?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAN-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-007ACC?style=for-the-badge"/>
 </p>
 
 ---
+
 
 ## 📂 Featured Embedded Project
 
