@@ -21,12 +21,12 @@
 
 ## 👨‍💻 About Me
 
-🔹 🎓 Electronics & Telecommunication Engineering Graduate  
-🔹 Embedded Software Developer specializing in low-level firmware and real-time systems
-🔹 Strong expertise in Embedded C/C++ and microcontroller programming
-🔹 Hands-on experience with RTOS, Embedded Linux, and hardware interfacing
-🔹 Skilled in communication protocols: UART, SPI, I2C, CAN, and TCP/IP
-🔹 Passionate about transforming hardware into intelligent, efficient systems
+🔹 🎓 Electronics & Telecommunication Engineering Graduate   
+🔹 Embedded Software Developer specializing in low-level firmware and real-time systems  
+🔹 Strong expertise in Embedded C/C++ and microcontroller programming  
+🔹 Hands-on experience with RTOS, Embedded Linux, and hardware interfacing  
+🔹 Skilled in communication protocols: UART, SPI, I2C, CAN, and TCP/IP  
+🔹 Passionate about transforming hardware into intelligent, efficient systems  
 🔹 Continuously learning, building, and optimizing embedded solutions
 
 ---
