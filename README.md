@@ -145,9 +145,12 @@
 ## 💻 Embedded System Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/circuit.gif" width="420"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F7FF,100:0047FF&height=160&section=header&text=Embedded%20Systems&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+</p>
 
 <p align="center">
 <em>"Turning hardware into intelligent systems through code."</em>
