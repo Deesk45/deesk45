@@ -30,20 +30,34 @@
 
 ## ⚙️ Tech Stack & Tools
 
+### 👨‍💻 Programming & Firmware
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,arduino,raspberrypi,git,github" />
+<img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
+- Embedded C, C, C++  
+- Data Structures & Memory Management  
+- Low-level Firmware Development  
+- Bare-Metal Programming  
+
+---
+
+### ⚙️ Embedded Systems & OS
 <p align="center">
 <img src="https://img.shields.io/badge/ARM-Microcontrollers-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
 <img src="https://img.shields.io/badge/RTOS-RealTime-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Embedded%20Linux-Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+- RTOS (Tasks, Queues, Semaphores, ISRs)  
+- ARM Microcontroller Programming  
+- Interrupts & Timers  
+- Embedded Linux (Kernel Basics)  
+- Device Drivers (Beginner Level)  
+
 ---
 
-## 📡 Communication Protocols
-
+### 🌐 Networking & Communication
 <p align="center">
 <img src="https://img.shields.io/badge/UART-555555?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge"/>
@@ -52,7 +66,32 @@
 <img src="https://img.shields.io/badge/TCP%2FIP-007ACC?style=for-the-badge"/>
 </p>
 
+- UART, SPI, I2C, CAN  
+- TCP/IP Fundamentals  
+- Embedded Networking Concepts  
+
 ---
+
+### 🔌 Hardware & Peripherals
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+- GPIO, ADC, Timers  
+- Sensor & Actuator Interfacing  
+- Register-Level Programming  
+
+---
+
+### 🧰 Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+- Keil, GCC, Linux  
+- Git & GitHub  
+- Debugging using Logs & Registers  
+
 
 
 ## 📂 Featured Embedded Project
