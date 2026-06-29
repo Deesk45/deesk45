@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">Embedded Software Developer | E&TC Graduate | Embedded Systems Enthusiast</h3>
+<h3 align="center"> BSP Engineer | E&TC Graduate | Embedded Systems Enthusiast</h3>
 
 <p align="center">
 🔧 Firmware • 🧠 RTOS • 🖥 Embedded Linux • ⚙️ Microcontrollers
